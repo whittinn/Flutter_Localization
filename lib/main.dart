@@ -56,7 +56,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     selectedItems = item;
                   }))
         ],
-        title: const Text('Welcome'),
+        title: const LocaleText('welcome'),
         centerTitle: true,
       ),
       body: const Center(
