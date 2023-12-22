@@ -1,6 +1,6 @@
 # localization
 
-A new Flutter project.
+A new Flutter project created to display implementation of Localization. For more information of package used for this feature, please refer to - https://pub.dev/packages/flutter_locales 
 
 ## Getting Started
 
